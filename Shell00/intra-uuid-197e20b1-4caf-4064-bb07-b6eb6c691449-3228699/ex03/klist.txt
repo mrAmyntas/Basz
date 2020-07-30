@@ -1,0 +1,5 @@
+Credentials cache: API:74787
+        Principal: bhoitzin@CODAM.NL
+
+  Issued                Expires               Principal
+Jul 10 14:14:04 2020  Jul 17 14:13:59 2020  krbtgt/CODAM.NL@CODAM.NL
